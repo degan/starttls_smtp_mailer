@@ -10,6 +10,8 @@ STARTTLS SMTP mailer to help verify a server/account's STARTTLS support
     
     python starttls_smtp_mailer.py to_email from_email server port username password yes
 
+Note: You can put a space before the command on shells such as bash so credentials are not saved in history " python starttls..."
+
 ## Contributing
 
 1. Fork it
