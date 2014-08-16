@@ -1,11 +1,10 @@
 # starttls_smtp_mailer                                                    
-STARTTLS SMTP mailer to help verify a server/account's STARTTLS support
 
-Python 2.7 
+Requires Python 2.7 
 
 ## Description
 
-Use to quickly audit important HTTP Security Headers. 
+STARTTLS SMTP mailer to help verify a server/account's STARTTLS support
 
 ## Usage
     
