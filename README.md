@@ -8,7 +8,7 @@ STARTTLS SMTP mailer to help verify a server/account's STARTTLS support
 
 ## Usage
     
-    python starttls_smtp_mailer to_email from_email server port username password yes
+    python starttls_smtp_mailer.py to_email from_email server port username password yes
 
 ## Contributing
 
